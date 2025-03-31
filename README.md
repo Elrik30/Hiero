@@ -1,5 +1,5 @@
 # Hiero
-The enti engine for manipulating ancient egyptian hieroglyphs was created in 2015. Since then only god knows how it works!!!
+The enti engine for writing ancient egyptian hieroglyphs was created in 2015. Since then only god knows how it works!!!
 
 
 1)After download extract the project. I used XAMPP and created a folder in htdocs.
